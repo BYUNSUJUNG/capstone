@@ -1,0 +1,112 @@
+파이썬 기초
+https://www.youtube.com/watch?v=3ZDTaZ4UkIg&list=PLuHgQVnccGMDMxfZEpLbzHPZUEwObEaZq&index=32
+
+
+사이트 보고 따라하는중_파이썬 기초
+https://wikidocs.net/16073
+자바
+https://www.youtube.com/watch?v=SByN3m_8Nr4&list=PLRx0vPvlEmdBjfCADjCc41aD4G0bmdl4R&index=13
+
+장고 
+https://www.javatpoint.com/django-crud-application
+
+도움_가상환경설치
+https://onsil-thegreenhouse.github.io/programming/django/web_programmig/2017/09/16/django_tutorial_ch1-2/
+도움2_위키_파이썬 기본
+https://wikidocs.net/16402
+
+좋은 공부 블로그 발견
+https://suwoni-codelab.com/categories/
+
+
+
+=================================================================
+cmd 공부하기 좋은 블로그(아직 안봄)
+http://blog.naver.com/PostView.nhn?blogId=jed00&logNo=140188844895
+
+======================================    (이건 보는 게아님)
+
+걍 js관련 랭킹 사이트 (오픈출처)
+https://risingstars.js.org/2018/en/#section-all
+
+======================================
+
+기초(오픈출처)https://tutorial.djangogirls.org/ko/deploy/   (보다 말음)
+
+--> https://tutorial.djangogirls.org/ko/css/ 현재여기
+
+
+========================================================== (다봄)
+python& json(1)(공상출처)
+https://wayhome25.github.io/django/2017/03/19/django-ep3-fbv/
+
+python& postgreSql ㅡ관련 블로그
+https://blog.naver.com/yumesaka/221447162314
+
+django - (json하고 그런거)rest(오픈제공,공상출처) 
+https://medium.com/@whj2013123218/django-rest-api의-필요성과-간단한-사용-방법-a95c6dd195fd
+- 
+새로 받은 json공부 링크
+(1) https://velog.io/@killi8n
+=>Django 설정: https://velog.io/@killi8n/Django%EC%99%80-React%EB%A1%9C-%ED%95%9C%EC%A4%84-%EB%85%B8%ED%8A%B8-%EC%95%B1-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EA%B8%B0-2.-R
+eact-Django-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%83%9D%EC%84%B1.-najmam6ds2
+=>CRUD API: https://velog.io/@killi8n/4-1.-Django-CRUD-API-%EC%9E%91%EC%97%85-2djmbzytkx
+=> 권한 설정: https://velog.io/@killi8n/Dnote-5-1.-Django-%EA%B6%8C%ED%95%9C-%EC%84%A4%EC%A0%95-%EB%B0%8F-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85-%EA%B5%AC%ED%98%84-tmjmep5tcm
+
+(2)rest framework를 사용할 수 있는 여러가지 방법
+ https://show-me-the-money.tistory.com/36
+
+(3) https://medium.com/@whj2013123218/django-rest-api%EC%9D%98-%ED%95%84%EC%9A%94%EC%84%B1%EA%B3%BC-%EA%B0%84%EB%8B%A8%ED%95%9C-%EC%82%AC%EC%9A%A9-%EB%B0%A9%EB%B2%95-a95c6dd195fd
+
+=> 공식 링크: https://www.django-rest-framework.org/tutorial/quickstart/
+==================================================================
+
+postgresql - 기초(공상출처)(다봄)
+http://www.gurubee.net/postgresql/basic
+postgresql - 영어강의(오픈출처)(대충봄)
+https://courses.edx.org/courses/course-v1:HarvardX+CS50W+Web/courseware/3b4d945d89eb40bcad81746770a81c3b/6bf9d46f806143c380af1ba8cb190d81/
+
+정규화(윤상조톡출처)
+https://3months.tistory.com/193
+
+==================================================
+(조톡출처)
+1. TextRank(설명이랑 예제)
+https://excelsior-cjh.tistory.com/93
+
+2. WordRank(한국어텍스트)
+https://github.com/lovit/KR-WordRank
+
+3. networkx
+https://data-rider.blogspot.com/2015/08/networkx.html
+
+4. TextRank
+https://towardsdatascience.com/textrank-for-keyword-extraction-by-python-c0bae21bcec0
+https://data-rider.blogspot.com/2015/08/networkx.html
+
+5. LDA로 문서 토픽 추출
+https://towardsdatascience.com/the-complete-guide-for-topics-extraction-in-python-a6aaa6cedbbc
+
+6. Sequence-to-Sequence
+https://ratsgo.github.io/natural%20language%20processing/2017/03/12/s2s/
+
+7. soykeyword 키워드 추출
+https://github.com/lovit/soykeyword
+
+========================================
+한글 장고 강의(유튜브 =  3게띠라함 )
+https://www.youtube.com/watch?v=hgBCewiJ6n4&list=PLY9pe3iUjRrT6wZTIA5YriQxvfXf-yxhF&index=16 
+
+======================================
+03.11에 찾은 장고랑 파이썬 블로그 (보는 중)
+https://wayhome25.github.io/blog/categories/#django
+
+파이썬 프라임 워크 두가지 비교 
+https://bluese05.tistory.com/44 (봄)
+
+=====================================
+깃 기초 공부 사이트(보는중)
+https://git-scm.com/book/ko/v2/시작하기-Git-최초-설정
+
+생활코딩 - git 영상(보는중)
+https://www.youtube.com/watch?v=oIhmk3u6DI8&list=PLuHgQVnccGMCB06JE7zFIAOJtdcZBVrap&index=21

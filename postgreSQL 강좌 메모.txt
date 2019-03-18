@@ -1,0 +1,28 @@
+https://www.youtube.com/watch?v=wva2yMqcB6Q
+1. 테이블 생성
+(1) create table people (
+	id INTEGER,
+	name VARCHAR(255)
+)
+
+2. 행 추가
+(1) INSERT INTO people VALUES(1,'Corey');
+(2) INSERT INTO people (id, name) VALUES(1,'A');
+(3) INSERT INTO people (name, id) VALUES('B',2);
+
+3. 선택
+(1) SELETE * FROM people;
+(2) SELETE id FROM people;
+(3) SELETE * FROM people WHERE id='A';
+(4) SELETE * FROM people WHERE id='A';
+(5) SELETE * FROM people WHERE id='A' OR id='B'; (동시만족X)
+(6) SELETE * FROM people WHERE id='A' AND age<30; (동시만족O)
+(7) SELETE * FROM people WHERE age<30 ORDER BY age (ASC); // DESC
+(8) SELETE * FROM people WHERE age<30 ORDER BY age, id;
+
+4. 수정 - update
+UPDATE test_table
+SET location = 'unknown' // location 열에 내용을 모두 'unknown'으로 바꿈
+
+5. 삭제 *테이블은 삭제하는 것이 아닌, 내용만을 삭제하는 것*
+DELETE FROM test_table 

@@ -1,0 +1,41 @@
+루트생성: mkdir dnote
+이동: cd dnote
+react 프로젝트 생성: npx create-react-app my-app
+루트 생성
+이동
+
+<버전 확인>
+python --version : 버전확인 (3.7.2)
+python -m django --version
+
+<가상 환경>
+가상환경 생성: python -m venv tutorial-env[가상환경이름]
+가상환경 들어가기: tutorial-env\Scripts\activate.bat 
+[가상환경 나오기: deactivate]
+
+<가상환경><장고 설치 및 서버 실행>
+pip install django
+django-admin startproject dnote
+cd dnote
+python manage.py migrate
+python manage.py runserver
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<가상환경><권한 설정>
+pip install django-rest-knox

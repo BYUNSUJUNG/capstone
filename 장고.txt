@@ -1,0 +1,81 @@
+기초(오픈출처)https://tutorial.djangogirls.org/ko/deploy/
+
+--> https://tutorial.djangogirls.org/ko/css/ 현재여기
+
+
+==========================================================
+python& json(1)(공상출처)
+https://wayhome25.github.io/django/2017/03/19/django-ep3-fbv/
+
+python& postgreSql ㅡ관련 블로그
+https://blog.naver.com/yumesaka/221447162314
+
+django - (json하고 그런거)rest(오픈제공,공상출처) 
+https://medium.com/@whj2013123218/django-rest-api의-필요성과-간단한-사용-방법-a95c6dd195fd
+- 
+새로 받은 json공부 링크
+(1) https://velog.io/@killi8n
+=>Django 설정: https://velog.io/@killi8n/Django%EC%99%80-React%EB%A1%9C-%ED%95%9C%EC%A4%84-%EB%85%B8%ED%8A%B8-%EC%95%B1-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EA%B8%B0-2.-R
+eact-Django-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%83%9D%EC%84%B1.-najmam6ds2
+=>CRUD API: https://velog.io/@killi8n/4-1.-Django-CRUD-API-%EC%9E%91%EC%97%85-2djmbzytkx
+=> 권한 설정: https://velog.io/@killi8n/Dnote-5-1.-Django-%EA%B6%8C%ED%95%9C-%EC%84%A4%EC%A0%95-%EB%B0%8F-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85-%EA%B5%AC%ED%98%84-tmjmep5tcm
+
+(2) https://show-me-the-money.tistory.com/36
+
+(3) https://medium.com/@whj2013123218/django-rest-api%EC%9D%98-%ED%95%84%EC%9A%94%EC%84%B1%EA%B3%BC-%EA%B0%84%EB%8B%A8%ED%95%9C-%EC%82%AC%EC%9A%A9-%EB%B0%A9%EB%B2%95-a95c6dd195fd
+=> 여기 블로그에서 들어가서 해보라고 했던 rest 사이트
+https://www.django-rest-framework.org/tutorial/quickstart/
+==================================================================
+
+postgresql - 기초(공상출처)
+http://www.gurubee.net/postgresql/basic
+postgresql - 영어강의(오픈출처)
+https://courses.edx.org/courses/course-v1:HarvardX+CS50W+Web/courseware/3b4d945d89eb40bcad81746770a81c3b/6bf9d46f806143c380af1ba8cb190d81/
+
+
+정규화(윤상조톡출처)
+https://3months.tistory.com/193
+
+
+
+
+==================================================
+
+
+(조톡출처)
+1. TextRank(설명이랑 예제)
+https://excelsior-cjh.tistory.com/93
+
+2. WordRank(한국어텍스트)
+https://github.com/lovit/KR-WordRank
+
+3. networkx
+https://data-rider.blogspot.com/2015/08/networkx.html
+
+4. TextRank
+https://towardsdatascience.com/textrank-for-keyword-extraction-by-python-c0bae21bcec0
+https://data-rider.blogspot.com/2015/08/networkx.html
+
+5. LDA로 문서 토픽 추출
+https://towardsdatascience.com/the-complete-guide-for-topics-extraction-in-python-a6aaa6cedbbc
+
+6. Sequence-to-Sequence
+https://ratsgo.github.io/natural%20language%20processing/2017/03/12/s2s/
+
+7. soykeyword 키워드 추출
+https://github.com/lovit/soykeyword
+
+
+======================================
+
+걍 js관련 랭킹 사이트 (오픈출처)
+https://risingstars.js.org/2018/en/#section-all
+
+
+========================================
+한글 장고 강의(유튜브 =  3게띠라함 )
+https://www.youtube.com/watch?v=hgBCewiJ6n4&list=PLY9pe3iUjRrT6wZTIA5YriQxvfXf-yxhF&index=16 
+
+======================================
+03.11에 찾은 장고랑 파이썬 블로그 (아직안봄)
+https://wayhome25.github.io/blog/categories/#django
